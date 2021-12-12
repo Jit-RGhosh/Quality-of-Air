@@ -1,5 +1,5 @@
-# Quality-of-Air
-Monitoring and Understanding Air quality.
+# Stock Market Prediction
+Monitoring and Understanding Stock Market to predict future Investment oppertunity.
 
 # Forecasting Stock Market Prices
 
