@@ -44,7 +44,7 @@ Kolkata
 7. Determine Top 10 City with Heighest AQI
 8. Plotting lineplot of year wise AQI of all cities
 9. Relation between the PM2.5 and AQI
-10. 
+10. Date wise AQI Chart
 
 ## DATA:
 The data has been made publicly available by the Central Pollution Control Board: https://cpcb.nic.in/ which is the official portal of Government of India. They also have a real-time monitoring app: https://app.cpcbccr.com/AQI_India/
